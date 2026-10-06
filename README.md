@@ -1,7 +1,7 @@
-# SIRIUS Undip — Sistem Reservasi Ruangan
+# SIRIUS Undip — Sistem Reservasi Ruangan Kampus
 
 Tugas Design Pattern (Python & Flet) — UI dibangun berdasarkan desain Figma
-"SIRIUS Undip" (`HV9jRnOoxTZT8FKY2G054m`).
+"SIRIUS Undip" 
 
 - **Nama project:** SIRIUS Undip — Sistem Reservasi Ruangan Kampus
 - **Anggota kelompok:**
